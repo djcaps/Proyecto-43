@@ -11,7 +11,7 @@ function setup() {
   system = new System()
   security = new Security()
 }
-
+//aqui pongo mi función draw 
 function draw() {
   background(bg);
   clues();
